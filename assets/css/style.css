@@ -215,7 +215,6 @@ html, body {
     height: 100%;
     width: 100%;
     min-height: 700px;
-    max-height: 730px;
 }
 
 .hero .container {
@@ -255,7 +254,7 @@ html, body {
 } 
 
 .hero img {
-    height: 600px;
+    height: 720px;
 }
 
 /* SITEMAIN
